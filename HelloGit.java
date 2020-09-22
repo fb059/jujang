@@ -12,4 +12,5 @@ public class HelloGit {
 		system.out.println("This is a confliction test.");
 	}
 	//add commit : this seongju -> im modify
+	//add commit : dohyeon
 }
